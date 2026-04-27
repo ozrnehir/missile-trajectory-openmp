@@ -57,7 +57,7 @@ Speedup is **not linear**, and in some cases performance decreases due to:
 
 Make sure you have a C++ compiler with OpenMP support installed.
 
-### Compile:
+Compile:
 ```bash
 g++ -fopenmp main.cpp -o simulation
 

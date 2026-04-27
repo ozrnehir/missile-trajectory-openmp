@@ -64,12 +64,14 @@ g++ -fopenmp main.cpp -o simulation
 Run:
 ./simulation
 
+
 ## 🧪 What This Project Demonstrates
 
 * Understanding of parallel computing concepts
 * Practical use of OpenMP
 * Ability to perform performance analysis
 * Awareness of real-world limitations of parallelization
+
 
 ## 📌 Conclusion
 
@@ -80,12 +82,14 @@ Although parallelization improves performance in some cases, results show that:
 
 This highlights the importance of efficient parallel design, not just adding threads.
 
+
 ## 🚀 Future Improvements
 
 * Dynamic workload distribution
 * Larger dataset simulations
 * GPU-based acceleration (CUDA/OpenCL)
 * Real-time visualization
+
 
 ## 👩‍💻 Author
 *Elif Nehir Özer
